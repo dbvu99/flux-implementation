@@ -1,0 +1,25 @@
+{
+  "name": "flux",
+  "version": "1.0.0",
+  "description": "this is an implementation of the Flux design pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbvu99/flux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbvu99/flux/issues"
+  },
+  "homepage": "https://github.com/dbvu99/flux#readme",
+  "dependencies": {
+    "jest": "^26.0.1",
+    "nodemon": "^2.0.3"
+  }
+}
